@@ -1,13 +1,13 @@
 
 # Blog-preview-card
-=======
+
 # Frontend Mentor - Blog-preview-card Component Solution
 
 ![Design preview for the QR code component coding challenge](./preview.jpg)
 
 ## 📄 Overview
 
-This is my solution to the [Blog-preview-card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/Blog-preview-card-iux_sIO_H). The goal was to create a simple, responsive card component using HTML and CSS that displays a QR code with a call-to-action message.
+This is my solution to the [Blog-preview-card challenge on Frontend Mentor](https://www.frontendmentor.io/learning-paths/getting-started-on-frontend-mentor-XJhRWRREZd/steps/6875e8e5449a25f45bbf2163/challenge/start). The goal was to create a simple, responsive card component using HTML and CSS that displays a QR code with a call-to-action message.
 
 ---
 

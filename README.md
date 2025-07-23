@@ -7,7 +7,7 @@
 
 ## 📄 Overview
 
-This is my solution to the [QR Code Component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). The goal was to create a simple, responsive card component using HTML and CSS that displays a QR code with a call-to-action message.
+This is my solution to the [Blog-preview-card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/Blog-preview-card-iux_sIO_H). The goal was to create a simple, responsive card component using HTML and CSS that displays a QR code with a call-to-action message.
 
 ---
 

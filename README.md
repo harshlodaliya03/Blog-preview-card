@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Blog-preview-card
 =======
 # Frontend Mentor - QR Code Component Solution
@@ -13,7 +13,7 @@ This is my solution to the [QR Code Component challenge on Frontend Mentor](http
 
 ## 🔗 Live Demo
 
-[👉 View Live Site](https://harshlodaliya03.github.io/qr-code-component/)
+[👉 View Live Site](https://harshlodaliya03.github.io/Blog-preview-card/)
 
 ---
 
@@ -68,4 +68,3 @@ Thanks to [Frontend Mentor](https://www.frontendmentor.io) for the great challen
 ## 🧾 License
 
 This project is for educational and portfolio purposes only. Not intended for commercial use.
->>>>>>> bec9277 (Update README.md with QR Code Component solution)

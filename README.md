@@ -1,7 +1,7 @@
 
 # Blog-preview-card
 =======
-# Frontend Mentor - QR Code Component Solution
+# Frontend Mentor - Blog-preview-card Component Solution
 
 ![Design preview for the QR code component coding challenge](./preview.jpg)
 
